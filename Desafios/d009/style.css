@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(30, 28, 28);
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+section {
+    align-items: center;
+    margin: auto;
+}
+
+p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
